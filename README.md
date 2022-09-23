@@ -1,5 +1,4 @@
-- 👋 Hi, I’m Dino Gonatas, a systems engineer with a strong background in air to ground weapons systems,
--  as well as currently fullfilling the role of systems engineer in the tactical communications realm.
+- 👋 Hi, I’m Dino Gonatas, a systems engineer with a strong background in air to ground weapons systems, as well as currently fullfilling the role of systems engineer in the tactical ground and airborne communications industry.
 - 👀 I’m interested in most things that tickle my fancy, hardware and embedded software being my historical strong points though.
 - 🌱 I’m currently learning some new stuff and relearning some old stuff
 - 🌱 Dabbling in the front end arena, as it is so different from my core embedded programming environment and requires different strengths to come to the fore.
