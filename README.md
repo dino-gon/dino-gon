@@ -2,6 +2,7 @@
 -  as well as currently fullfilling the role of systems engineer in the tactical communications realm.
 - 👀 I’m interested in most things that tickle my fancy, hardware and embedded software being my historical strong points though.
 - 🌱 I’m currently learning some new stuff and relearning some old stuff
+- 🌱 Dabbling in the front end arena, as it is so different from my core emebedded programming environment and requires different strengths to come to the fore.
 - 💞️ I’m looking to collaborate on integrated hardware based systems, with an embedded endpoint solution
 - 📫 You can contact me on , going to think about this before I publish any details
 
