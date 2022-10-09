@@ -50,23 +50,35 @@
 <a target="_blank"><img alt="KiCad" src="https://img.shields.io/badge/KiCad-%2312100E?logo=kicad&logoWidth=40&logoColor=blue&style=for-the-badge"/></a> 
 </p>
 
-<h2 align="center">⚒ My Tool History</h2>
-  <h3 align="center">⚒ Embedded Development - Assembly Tools:</h3>
+<h2 align="center">⚒ My Embedded Development Tool History</h2>
+  <h3 align="center">⚒ Assembly Tools:</h3>
 <p align="center">
 <a target="_blank"><img alt="Asm 6502" src="https://img.shields.io/badge/ASM6500-%2312100E.svg?logo=v&logoColor=white&style=for-the-badge"/></a> 
 <a target="_blank"><img alt="Asm 8031" src="https://img.shields.io/badge/ASM51-%2312100E.svg?logo=v&logoColor=white&style=for-the-badge"/></a> 
 <a target="_blank"><img alt="Asm AVR" src="https://img.shields.io/badge/AVRASM-%2312100E.svg?logo=v&logoColor=white&style=for-the-badge"/></a> 
 </p>
+<h3 align="center">⚒ High Level Tools:</h3>
 <p align="center">
- <a target="_blank"><img alt="Franklin C51" src="https://img.shields.io/badge/Franklin%20C51-%2312100E.svg?logo=xeclipseide&style=for-the-badge&logoColor=#2C2255"/></a>
-  <a target="_blank"><img alt="AVR Studio IDE" src="https://img.shields.io/badge/AVR%20Studio%20IDE-%2312100E.svg?logo=xeclipseide&style=for-the-badge&logoColor=#2C2255"/></a>
-  <a target="_blank"><img alt="Eclipse IDE" src="https://img.shields.io/badge/Eclipse%20IDE-%2312100E.svg?logo=eclipseide&style=for-the-badge&logoColor=#2C2255"/></a>
-  <a target="_blank"><img alt="ATMEL Studio IDE" src="https://img.shields.io/badge/ATMEL%20Studio%20IDE-%2312100E.svg?logo=xeclipseide&style=for-the-badge&logoColor=#2C2255"/></a>
-  <a target="_blank"><img alt="CodeWarrior IDE" src="https://img.shields.io/badge/CodeWarrior%20IDE-%2312100E.svg?logo=xeclipseide&style=for-the-badge&logoColor=#2C2255"/></a>
+ <a target="_blank"><img alt="Franklin C51" src="https://img.shields.io/badge/Franklin%20C51-%2312100E.svg?logo=c&style=for-the-badge&logoColor=#2C2255"/></a>
+  <a target="_blank"><img alt="Keil C51" src="https://img.shields.io/badge/KEIL%20C51-%2312100E.svg?logo=c&style=for-the-badge&logoColor=#2C2255"/></a>
+  <a target="_blank"><img alt="AVR Studio IDE" src="https://img.shields.io/badge/AVR%20Studio%20IDE-%2312100E.svg?logo=c&style=for-the-badge&logoColor=#2C2255"/></a>
+  <a target="_blank"><img alt="CodeVision AVR" src="https://img.shields.io/badge/CodeVision%20AVR-%2312100E.svg?logo=c&style=for-the-badge&logoColor=#2C2255"/></a>
+  <a target="_blank"><img alt="Eclipse IDE" src="https://img.shields.io/badge/Eclipse%20IDE-%2312100E.svg?logo=c&style=for-the-badge&logoColor=#2C2255"/></a>
+  <a target="_blank"><img alt="ATMEL Studio IDE" src="https://img.shields.io/badge/ATMEL%20Studio%20IDE-%2312100E.svg?logo=c&style=for-the-badge&logoColor=#2C2255"/></a>
+  <a target="_blank"><img alt="CodeWarrior IDE" src="https://img.shields.io/badge/CodeWarrior%20IDE-%2312100E.svg?logo=c&style=for-the-badge&logoColor=#2C2255"/></a>
   <a target="_blank"><img alt="STM32 Cube IDE" src="https://img.shields.io/badge/STM32%20Cube%20IDE-%2312100E.svg?logo=STMicroelectronics&style=for-the-badge&logoColor=#03234B"/></a>
   </p>
 
-
+<h2 align="center">⚒ My Application Development Tool History</h2>
+  <h3 align="center">⚒ Application Tools:</h3>
+<p align="center">
+<a target="_blank"><img alt="FORTRAN" src="https://img.shields.io/badge/-FORTRAN-%2312100E.svg?logo=fortran&logoColor=white&style=for-the-badge"/></a> 
+<a target="_blank"><img alt="BASIC" src="https://img.shields.io/badge/-MS--BASIC-%2312100E.svg?logo=v&logoColor=white&style=for-the-badge"/></a> 
+<a target="_blank"><img alt="GWBASIC" src="https://img.shields.io/badge/-GW--BASIC-%2312100E.svg?logo=v&logoColor=white&style=for-the-badge"/></a> 
+  <a target="_blank"><img alt="Borland Turbo C" src="https://img.shields.io/badge/TURBO%20C-%2312100E.svg?logo=c&logoColor=white&style=for-the-badge"/></a> 
+  <a target="_blank"><img alt="Borland Turbo C++" src="https://img.shields.io/badge/TURBO%20C++-%2312100E.svg?logo=c&logoColor=white&style=for-the-badge"/></a> 
+  <a target="_blank"><img alt="Borland Builder C++" src="https://img.shields.io/badge/Borland%20Builder%20C++-%2312100E.svg?logo=cplusplus&logoColor=white&style=for-the-badge"/></a> 
+</p>
 
 
 <!-- div align="center">
