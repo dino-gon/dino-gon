@@ -9,20 +9,34 @@
 
 <h3 align="center">🚀 Embedded Processors Developed On:</h3>
 <p align="center">
-<a target="_blank"><img alt="Rockwell 6511" src="https://img.shields.io/badge/-R6511-%2312100E.svg?logo=okta&style=for-the-badge&logoColor=#03234B"/></a> 
-<a target="_blank"><img alt="Motorola 65SC151" src="https://img.shields.io/badge/-65SC151-%2312100E.svg?logo=motorola&style=for-the-badge&logoColor=#03234B"/></a> 
-<a target="_blank"><img alt="Intel 8031" src="https://img.shields.io/badge/-80C31-%2312100E.svg?logo=intel&style=for-the-badge&logoColor=#03234B"/></a> 
-<a target="_blank"><img alt="Intel 87C51" src="https://img.shields.io/badge/-87C51-%2312100E.svg?logo=intel&style=for-the-badge&logoColor=#03234B"/></a> 
-<a target="_blank"><img alt="AT89C51" src="https://img.shields.io/badge/-AT89C51-%2312100E.svg?logo=atmel&style=for-the-badge&logoColor=#03234B"/></a> 
-<a target="_blank"><img alt="AVR 8" src="https://img.shields.io/badge/-AVR8-%2312100E.svg?logo=atmel&style=for-the-badge&logoColor=#03234B"/></a> 
-<a target="_blank"><img alt="Assembler" src="https://img.shields.io/badge/-PIC-%2312100E.svg?logo=microchip&style=for-the-badge&logoColor=#03234B"/></a> 
-<a target="_blank"><img alt="STM8" src="https://img.shields.io/badge/-STM8-%2312100E.svg?logo=STMicroelectronics&style=for-the-badge&logoColor=#03234B"/></a> 
-<a target="_blank"><img alt="Freescale DSP56F805" src="https://img.shields.io/badge/-DSP56F805-%2312100E.svg?logo=motorola&style=for-the-badge&logoColor=#03234B"/></a> 
-<a target="_blank"><img alt="Atmel AVR32" src="https://img.shields.io/badge/-AVR32-%2312100E.svg?logo=atmel&style=for-the-badge&logoColor=#03234B"/></a> 
-<a target="_blank"><img alt="AVR XMega" src="https://img.shields.io/badge/-AVR%20XMEGA-%2312100E.svg?logo=atmel&style=for-the-badge&logoColor=#03234B"/></a> 
-<a target="_blank"><img alt="ARM Cortex-M7" src="https://img.shields.io/badge/-ARM%20Cortex--M7-%2312100E.svg?logo=atmel&style=for-the-badge&logoColor=#03234B"/></a> 
-<a target="_blank"><img alt="STM STM32" src="https://img.shields.io/badge/-STM32-%2312100E.svg?logo=STMicroelectronics&style=for-the-badge&logoColor=#03234B"/></a>
-<a target="_blank"><img alt="ESP ESP32" src="https://img.shields.io/badge/-ESP32-%2312100E.svg?logo=Espressif&style=for-the-badge&logoColor=#03234B"/></a>
+  <a target="_blank"><img alt="Rockwell 6511"
+    src="https://img.shields.io/badge/-R6511-%2312100E.svg?logo=okta&style=for-the-badge&logoColor=#03234B"/></a> 
+  <a target="_blank"><img alt="Motorola 65SC151"
+    src="https://img.shields.io/badge/-65SC151-%2312100E.svg?logo=motorola&style=for-the-badge&logoColor=#03234B"/></a> 
+  <a target="_blank"><img alt="Intel 8031"
+    src="https://img.shields.io/badge/-80C31-%2312100E.svg?logo=intel&style=for-the-badge&logoColor=#0071C5"/></a> 
+  <a target="_blank"><img alt="Intel 87C51"
+    src="https://img.shields.io/badge/-87C51-%2312100E.svg?logo=intel&style=for-the-badge&logoColor=#0071C5"/></a> 
+  <a target="_blank"><img alt="AT89C51"
+    src="https://img.shields.io/badge/-AT89C51-%2312100E.svg?logo=atmel&style=for-the-badge&logoColor=#03234B"/></a> 
+  <a target="_blank"><img alt="AVR 8"
+    src="https://img.shields.io/badge/-AVR8-%2312100E.svg?logo=atmel&style=for-the-badge&logoColor=#03234B"/></a> 
+  <a target="_blank"><img alt="Assembler"
+    src="https://img.shields.io/badge/-PIC-%2312100E.svg?logo=microchip&style=for-the-badge&logoColor=#03234B"/></a> 
+  <a target="_blank"><img alt="STM8"
+    src="https://img.shields.io/badge/-STM8-%2312100E.svg?logo=STMicroelectronics&style=for-the-badge&logoColor=#03234B"/></a> 
+  <a target="_blank"><img alt="Freescale DSP56F805"
+    src="https://img.shields.io/badge/-DSP56F805-%2312100E.svg?logo=motorola&style=for-the-badge&logoColor=#E1140A"/></a> 
+  <a target="_blank"><img alt="Atmel AVR32"
+    src="https://img.shields.io/badge/-AVR32-%2312100E.svg?logo=atmel&style=for-the-badge&logoColor=#03234B"/></a> 
+  <a target="_blank"><img alt="AVR XMega"
+    src="https://img.shields.io/badge/-AVR%20XMEGA-%2312100E.svg?logo=atmel&style=for-the-badge&logoColor=#03234B"/></a> 
+  <a target="_blank"><img alt="ARM Cortex-M7"
+    src="https://img.shields.io/badge/-ARM%20Cortex--M7-%2312100E.svg?logo=atmel&style=for-the-badge&logoColor=#03234B"/></a> 
+  <a target="_blank"><img alt="STM STM32"
+    src="https://img.shields.io/badge/-STM32-%2312100E.svg?logo=STMicroelectronics&style=for-the-badge&logoColor=#03234B"/></a>
+  <a target="_blank"><img alt="ESP ESP32" 
+  src="https://img.shields.io/badge/-ESP32-%2312100E.svg?logo=Espressif&style=for-the-badge&logoColor=#E7352C"/></a>
 </p>
 
 <div>
@@ -30,54 +44,89 @@
 
 <h3 align="center">🚀 Embedded Development Languages:</h3>
 <p align="center">
-<a target="_blank"><img alt="C" src="https://img.shields.io/badge/C-%2312100E.svg?logo=c&logoColor=white&style=for-the-badge"/></a> 
-<a target="_blank"><img alt="C++" src="https://img.shields.io/badge/C++-%2312100E.svg?logo=cplusplus&logoColor=white&style=for-the-badge"/></a> 
+  <a target="_blank"><img alt="C"
+    src="https://img.shields.io/badge/C-%2312100E.svg?logo=c&style=for-the-badge&logoColor=#A8B9CC"/></a>
+  <a target="_blank"><img alt="C++"
+    src="https://img.shields.io/badge/C++-%2312100E.svg?logo=cplusplus&style=for-the-badge&logoColor=#00599C"/></a> 
 </p>
 
 <h3 align="center">🖥 Front End Languages:</h3>
 <p align="center">
-<a target="_blank"><img alt="HTML 5" src="https://img.shields.io/badge/HTML5-%2312100E.svg?logo=html5&style=for-the-badge&logoColor=#E34F26"/></a>
-<a target="_blank"><img alt="CSS" src="https://img.shields.io/badge/CSS-%2312100E.svg?logo=css3&style=for-the-badge&logoColor=#1572B6"/></a>
-<a target="_blank"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-%2312100E.svg?logo=javascript&style=for-the-badge&logoColor=#F7DF1E"/></a>
-<a target="_blank"><img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-%2312100E.svg?logo=typescript&style=for-the-badge&logoColor=#3178C6"/></a>
+  <a target="_blank"><img alt="HTML 5"
+    src="https://img.shields.io/badge/HTML5-%2312100E.svg?logo=html5&style=for-the-badge&logoColor=#E34F26"/></a>
+  <a target="_blank"><img alt="CSS"
+    src="https://img.shields.io/badge/CSS-%2312100E.svg?logo=css3&style=for-the-badge&logoColor=#1572B6"/></a>
+  <a target="_blank"><img alt="JavaScript"
+    src="https://img.shields.io/badge/JavaScript-%2312100E.svg?logo=javascript&style=for-the-badge&logoColor=#F7DF1E"/></a>
+  <a target="_blank"><img alt="TypeScript"
+    src="https://img.shields.io/badge/TypeScript-%2312100E.svg?logo=typescript&style=for-the-badge&logoColor=#3178C6"/></a>
 </p>
 
-<h3 align="center">⚒ Tools I use:</h3>
+<h2 align="center">⚒ My Current Development Environment:</h3>
+I have reached a point where I have become frustrated (jaded?) by the need to learn a new IDE, just because I am developing on a new bit of hardware, so to this end I have embraced Visual Studio Code, as this provides for an integrated environment in which all the actual tools are well integrated and abstracted by good friendly individuals in the greater communities, allowing me to get on with my core business and passion, of coding solutions!
 <p align="center">
-<a target="_blank"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-%2312100E.svg?logo=visual-studio-code&style=for-the-badge&logoColor=blue"/></a> 
-<a target="_blank"><img alt="Git" src="https://img.shields.io/badge/Git-%2312100E.svg?logo=git&style=for-the-badge"/></a> 
-<a target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-%2312100E?logo=GitHub&style=for-the-badge"/></a> 
-<a target="_blank"><img alt="KiCad" src="https://img.shields.io/badge/KiCad-%2312100E?logo=kicad&logoWidth=40&logoColor=blue&style=for-the-badge"/></a> 
+  <a target="_blank"><img alt="Visual Studio Code"
+    src="https://img.shields.io/badge/Visual%20Studio%20Code-%2312100E.svg?logo=visual-studio-code&style=for-the-badge&logoColor=blue"/></a> 
+  <a target="_blank"><img alt="Git"
+    src="https://img.shields.io/badge/Git-%2312100E.svg?logo=git&style=for-the-badge"/></a> 
+  <a target="_blank"><img alt="GitHub"
+    src="https://img.shields.io/badge/GitHub-%2312100E?logo=GitHub&style=for-the-badge"/></a> 
+  <a target="_blank"><img alt="KiCad"
+    src="https://img.shields.io/badge/KiCad-%2312100E?logo=kicad&logoWidth=40&logoColor=blue&style=for-the-badge"/></a> 
 </p>
 
-<h2 align="center">⚒ My Embedded Development Tool History</h2>
-  <h3 align="center">⚒ Assembly Tools:</h3>
+<h2 align="center">⚒ My Embedded Development Tools Journey</h2>
+<h3 align="center">⚒ Assembly Tools:</h3>
 <p align="center">
-<a target="_blank"><img alt="Asm 6502" src="https://img.shields.io/badge/ASM6500-%2312100E.svg?logo=v&logoColor=white&style=for-the-badge"/></a> 
-<a target="_blank"><img alt="Asm 8031" src="https://img.shields.io/badge/ASM51-%2312100E.svg?logo=v&logoColor=white&style=for-the-badge"/></a> 
-<a target="_blank"><img alt="Asm AVR" src="https://img.shields.io/badge/AVRASM-%2312100E.svg?logo=v&logoColor=white&style=for-the-badge"/></a> 
+  <a target="_blank"><img alt="Asm 6502"
+    src="https://img.shields.io/badge/ASM6500-%2312100E.svg?logo=v&logoColor=white&style=for-the-badge"/></a> 
+  <a target="_blank"><img alt="Asm 8031"
+    src="https://img.shields.io/badge/ASM51-%2312100E.svg?logo=v&logoColor=white&style=for-the-badge"/></a> 
+  <a target="_blank"><img alt="Asm AVR"
+    src="https://img.shields.io/badge/AVRASM-%2312100E.svg?logo=v&logoColor=white&style=for-the-badge"/></a> 
 </p>
+
 <h3 align="center">⚒ High Level Tools:</h3>
 <p align="center">
- <a target="_blank"><img alt="Franklin C51" src="https://img.shields.io/badge/Franklin%20C51-%2312100E.svg?logo=c&style=for-the-badge&logoColor=#2C2255"/></a>
-  <a target="_blank"><img alt="Keil C51" src="https://img.shields.io/badge/KEIL%20C51-%2312100E.svg?logo=c&style=for-the-badge&logoColor=#2C2255"/></a>
-  <a target="_blank"><img alt="AVR Studio IDE" src="https://img.shields.io/badge/AVR%20Studio%20IDE-%2312100E.svg?logo=c&style=for-the-badge&logoColor=#2C2255"/></a>
-  <a target="_blank"><img alt="CodeVision AVR" src="https://img.shields.io/badge/CodeVision%20AVR-%2312100E.svg?logo=c&style=for-the-badge&logoColor=#2C2255"/></a>
-  <a target="_blank"><img alt="Eclipse IDE" src="https://img.shields.io/badge/Eclipse%20IDE-%2312100E.svg?logo=c&style=for-the-badge&logoColor=#2C2255"/></a>
-  <a target="_blank"><img alt="ATMEL Studio IDE" src="https://img.shields.io/badge/ATMEL%20Studio%20IDE-%2312100E.svg?logo=c&style=for-the-badge&logoColor=#2C2255"/></a>
-  <a target="_blank"><img alt="CodeWarrior IDE" src="https://img.shields.io/badge/CodeWarrior%20IDE-%2312100E.svg?logo=c&style=for-the-badge&logoColor=#2C2255"/></a>
-  <a target="_blank"><img alt="STM32 Cube IDE" src="https://img.shields.io/badge/STM32%20Cube%20IDE-%2312100E.svg?logo=STMicroelectronics&style=for-the-badge&logoColor=#03234B"/></a>
-  </p>
+  <a target="_blank"><img alt="Franklin C51" 
+    src="https://img.shields.io/badge/Franklin%20C51-%2312100E.svg?logo=c&style=for-the-badge&logoColor=#A8B9CC"/></a>
+  <a target="_blank"><img alt="Keil C51"
+    src="https://img.shields.io/badge/KEIL%20C51-%2312100E.svg?logo=c&style=for-the-badge&logoColor=#A8B9CC"/></a>
+  <a target="_blank"><img alt="AVR Studio IDE"
+    src="https://img.shields.io/badge/AVR%20Studio%20IDE-%2312100E.svg?logo=c&style=for-the-badge&logoColor=#A8B9CC"/></a>
+  <a target="_blank"><img alt="CodeVision AVR"
+    src="https://img.shields.io/badge/CodeVision%20AVR-%2312100E.svg?logo=c&style=for-the-badge&logoColor=#A8B9CC"/></a>
+  <a target="_blank"><img alt="Eclipse IDE"
+    src="https://img.shields.io/badge/Eclipse%20IDE-%2312100E.svg?logo=c&style=for-the-badge&logoColor=#A8B9CC"/></a>
+  <a target="_blank"><img alt="ATMEL Studio IDE"
+    src="https://img.shields.io/badge/ATMEL%20Studio%20IDE-%2312100E.svg?logo=c&style=for-the-badge&logoColor=#A8B9CC"/></a>
+  <a target="_blank"><img alt="CodeWarrior IDE"
+    src="https://img.shields.io/badge/CodeWarrior%20IDE-%2312100E.svg?logo=c&style=for-the-badge&logoColor=#A8B9CC"/></a>
+  <a target="_blank"><img alt="STM32 Cube IDE"
+    src="https://img.shields.io/badge/STM32%20Cube%20IDE-%2312100E.svg?logo=STMicroelectronics&style=for-the-badge&logoColor=#03234B"/></a>
+ </p>
 
-<h2 align="center">⚒ My Application Development Tool History</h2>
-  <h3 align="center">⚒ Application Tools:</h3>
+<h2 align="center">⚒ My Application Development Tools Journey</h2>
+<h3 align="center">⚒ Application Tools:</h3>
 <p align="center">
-<a target="_blank"><img alt="FORTRAN" src="https://img.shields.io/badge/-FORTRAN-%2312100E.svg?logo=fortran&logoColor=white&style=for-the-badge"/></a> 
-<a target="_blank"><img alt="BASIC" src="https://img.shields.io/badge/-MS--BASIC-%2312100E.svg?logo=v&logoColor=white&style=for-the-badge"/></a> 
-<a target="_blank"><img alt="GWBASIC" src="https://img.shields.io/badge/-GW--BASIC-%2312100E.svg?logo=v&logoColor=white&style=for-the-badge"/></a> 
-  <a target="_blank"><img alt="Borland Turbo C" src="https://img.shields.io/badge/TURBO%20C-%2312100E.svg?logo=c&logoColor=white&style=for-the-badge"/></a> 
-  <a target="_blank"><img alt="Borland Turbo C++" src="https://img.shields.io/badge/TURBO%20C++-%2312100E.svg?logo=c&logoColor=white&style=for-the-badge"/></a> 
-  <a target="_blank"><img alt="Borland Builder C++" src="https://img.shields.io/badge/Borland%20Builder%20C++-%2312100E.svg?logo=cplusplus&logoColor=white&style=for-the-badge"/></a> 
+  <a target="_blank"><img alt="FORTRAN"
+    src="https://img.shields.io/badge/-FORTRAN-%2312100E.svg?logo=fortran&style=for-the-badge&logoColor=#2C2255"/></a>
+  <a target="_blank"><img alt="BASIC"
+    src="https://img.shields.io/badge/-MS--BASIC-%2312100E.svg?logo=v&style=for-the-badge&logoColor=#2C2255"/></a>
+  <a target="_blank"><img alt="GWBASIC"
+    src="https://img.shields.io/badge/-GW--BASIC-%2312100E.svg?logo=v&style=for-the-badge&logoColor=#2C2255"/></a>
+  <a target="_blank"><img alt="Borland Turbo C"
+    src="https://img.shields.io/badge/TURBO%20C-%2312100E.svg?logo=c&style=for-the-badge&logoColor=#A8B9CC"/></a>
+  <a target="_blank"><img alt="Borland Turbo C++"
+    src="https://img.shields.io/badge/TURBO%20C++-%2312100E.svg?logo=c&style=for-the-badge&logoColor=#A8B9CC"/></a>
+  <a target="_blank"><img alt="Borland Builder C++"
+    src="https://img.shields.io/badge/-Borland%20Builder%20C++-%2312100E.svg?logo=cplusplus&style=for-the-badge&logoColor=#00599C"/></a>
+  <a target="_blank"><img alt="Borland Delphi"
+    src="https://img.shields.io/badge/-Borland%20Delphi-%2312100E.svg?logo=delphi&style=for-the-badge&logoColor=#EE1F35"/></a>
+  <a target="_blank"><img alt="MS FoxPro"
+    src="https://img.shields.io/badge/-MS FoxPro-%2312100E.svg?logo=msfoxpro&style=for-the-badge&logoColor=#2C2255"/></a>
+  <a target="_blank"><img alt="MySQL"
+    src="https://img.shields.io/badge/-MySQL-%2312100E.svg?logo=mysql&style=for-the-badge&logoColor=#2C2255"/></a>
 </p>
 
 
