@@ -12,7 +12,7 @@
   <a target="_blank"><img alt="Rockwell 6511"
     src="https://img.shields.io/badge/-R6511-%2312100E.svg?logo=okta&style=for-the-badge&logoColor=#03234B"/></a> 
   <a target="_blank"><img alt="Motorola 65SC151"
-    src="https://img.shields.io/badge/-65SC151-%2312100E.svg?logo=motorola&style=for-the-badge&logoColor=#03234B"/></a> 
+    src="https://img.shields.io/badge/-65SC151-%2312100E.svg?logo=motorola&style=for-the-badge&logoColor=#E1140A"/></a> 
   <a target="_blank"><img alt="Intel 8031"
     src="https://img.shields.io/badge/-80C31-%2312100E.svg?logo=intel&style=for-the-badge&logoColor=#0071C5"/></a> 
   <a target="_blank"><img alt="Intel 87C51"
@@ -63,7 +63,10 @@
 </p>
 
 <h2 align="center">⚒ My Current Development Environment:</h3>
-I have reached a point where I have become frustrated (jaded?) by the need to learn a new IDE, just because I am developing on a new bit of hardware, so to this end I have embraced Visual Studio Code, as this provides for an integrated environment in which all the actual tools are well integrated and abstracted by good friendly individuals in the greater communities, allowing me to get on with my core business and passion, of coding solutions!
+<p align="center">
+I have reached a point where I have become frustrated (jaded?) by the need to learn a new IDE, just because I am developing on a new bit of hardware.
+So I have naturally moved towards and embraced generic integrated development environments first Eclipse and now to Visual Studio Code, both provide environments in which the tools I use are well integrated and abstracted by good friendly individuals in the greater communities, thus allowing me to get on with my core business and passion, of coding solutions!
+</p>
 <p align="center">
   <a target="_blank"><img alt="Visual Studio Code"
     src="https://img.shields.io/badge/Visual%20Studio%20Code-%2312100E.svg?logo=visual-studio-code&style=for-the-badge&logoColor=blue"/></a> 
