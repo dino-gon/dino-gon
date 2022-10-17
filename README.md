@@ -99,8 +99,8 @@ So I have naturally moved towards and embraced generic integrated development en
     src="https://img.shields.io/badge/AVR%20Studio%20IDE-%2312100E.svg?logo=c&style=for-the-badge&logoColor=#A8B9CC"/></a>
   <a target="_blank"><img alt="CodeVision AVR"
     src="https://img.shields.io/badge/CodeVision%20AVR-%2312100E.svg?logo=c&style=for-the-badge&logoColor=#A8B9CC"/></a>
-  <a target="_blank"><img alt="Eclipse IDE"
-    src="https://img.shields.io/badge/Eclipse%20IDE-%2312100E.svg?logo=c&style=for-the-badge&logoColor=#A8B9CC"/></a>
+  <a target="_blank"><img alt="Eclipse Embedded CDT"
+    src="https://img.shields.io/badge/Eclipse%20Embedded%20CDT-%2312100E.svg?logo=Eclipse IDE&style=for-the-badge&logoColor=#2C2255"/></a>
   <a target="_blank"><img alt="ATMEL Studio IDE"
     src="https://img.shields.io/badge/ATMEL%20Studio%20IDE-%2312100E.svg?logo=c&style=for-the-badge&logoColor=#A8B9CC"/></a>
   <a target="_blank"><img alt="CodeWarrior IDE"
