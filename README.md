@@ -50,7 +50,7 @@
     src="https://img.shields.io/badge/C++-%2312100E.svg?logo=cplusplus&style=for-the-badge&logoColor=#00599C"/></a> 
 </p>
 
-<h3 align="center">🖥 Front End Languages:</h3>
+<h3 align="center">🖥 Active Dabbling, Learning & Revisiting old friends</h3>
 <p align="center">
   <a target="_blank"><img alt="HTML 5"
     src="https://img.shields.io/badge/HTML5-%2312100E.svg?logo=html5&style=for-the-badge&logoColor=#E34F26"/></a>
@@ -60,6 +60,8 @@
     src="https://img.shields.io/badge/JavaScript-%2312100E.svg?logo=javascript&style=for-the-badge&logoColor=#F7DF1E"/></a>
   <a target="_blank"><img alt="TypeScript"
     src="https://img.shields.io/badge/TypeScript-%2312100E.svg?logo=typescript&style=for-the-badge&logoColor=#3178C6"/></a>
+  <a target="_blank"><img alt="Python"
+    src="https://img.shields.io/badge/Python-%2312100E.svg?logo=python&style=for-the-badge&logoColor=#3776AB"/></a>
 </p>
 
 <h2 align="center">⚒ My Current Development Environment:</h3>
