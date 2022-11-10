@@ -66,8 +66,9 @@
 
 <h2 align="center">⚒ My Current Development Environment:</h3>
 <p align="center">
-I have reached a point where I have become frustrated (jaded?) by the need to learn a new IDE, just because I am developing on a new bit of hardware.
-So I have naturally moved towards and embraced generic integrated development environments first Eclipse and now to Visual Studio Code, both provide environments in which the tools I use are well integrated and abstracted by good friendly individuals in the greater communities, thus allowing me to get on with my core business and passion, of coding solutions!
+I have reached a point where I have become frustrated (jaded?) by the need to learn a new IDE, just because I am developing on a new bit of hardware.</br>
+Wit this view I have naturally moved towards and embraced integrated development environments, first being Eclipse and now onto Visual Studio Code, both provide environments in which the tools I use are well integrated and nicely abstracted by good friendly individuals in the greater communities.</br>
+This integration and abstraction allows me to get on with my core business and passion, of coding solutions, and only if I feel like it, do I have to get involved in the nuts and bolts that make up my tool configurations.
 </p>
 <p align="center">
   <a target="_blank"><img alt="Visual Studio Code"
