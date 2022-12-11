@@ -42,7 +42,7 @@
 <div>
 </div>
 
-<h3 align="center">🚀 Embedded Development Languages:</h3>
+<h3 align="center">🚀 Embedded & Desktop Application Development Languages:</h3>
 <p align="center">
   <a target="_blank"><img alt="C"
     src="https://img.shields.io/badge/C-%2312100E.svg?logo=c&style=for-the-badge&logoColor=#A8B9CC"/></a>
